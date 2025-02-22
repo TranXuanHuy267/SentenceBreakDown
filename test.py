@@ -45,8 +45,6 @@ Output:
 
 
 
-# os.environ['OPENAI_API_KEY'] = "sk-proj-B4FSqO3dGff3kJNOcQEGT3BlbkFJGwl36VlJgi5Gn0MADw4d"
-os.environ['OPENAI_API_KEY'] = "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"
 client = OpenAI()
 
 prompt = "There is one all-important law of human conduct."
