@@ -1,0 +1,40 @@
+{
+    "text": "take your mask off",
+    "token_id": "1 2 3 4",
+    "subcomponents": [
+      {
+        "text": "your mask",
+        "token_id": "2 3",
+        "explanation": "This is the direct object of the verb 'take'.",
+        "subcomponents": [
+          {
+            "text": "your",
+            "token_id": "2",
+            "explanation": "This is a possessive pronoun modifying 'mask'."
+          },
+          {
+            "text": "mask",
+            "token_id": 3,
+            "explanation": "This is the noun being possessed."
+          }
+        ]
+      },
+      {
+        "text": "take off",
+        "token_id": "1 4",
+        "explanation": "This is the phrasal verb acting as the main verb of the sentence.",
+        "subcomponents": [
+          {
+            "text": "take",
+            "token_id": 1,
+            "explanation": "This is the main verb component of the phrasal verb."
+          },
+          {
+            "text": "off",
+            "token_id": "4",
+            "explanation": "This is the particle component of the phrasal verb."
+          }
+        ]
+      }
+    ]
+  }

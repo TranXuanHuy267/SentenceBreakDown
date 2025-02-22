@@ -1,0 +1,164 @@
+{
+  "text": "I hope that my teacher will take into account the fact that I was ill just before the exam",
+  "token_id": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19",
+  "subcomponents": [
+    {
+      "text": "I",
+      "token_id": "1",
+      "explanation": "Subject of the main clause."
+    },
+    {
+      "text": "hope",
+      "token_id": 2,
+      "explanation": "Verb of the main clause."
+    },
+    {
+      "text": "that my teacher will take into account the fact that I was ill just before the exam",
+      "token_id": "3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19",
+      "explanation": "Object clause of the verb 'hope'.",
+      "subcomponents": [
+        {
+          "text": "that",
+          "token_id": "3",
+          "explanation": "Introduces the object clause."
+        },
+        {
+          "text": "my teacher",
+          "token_id": "4 5",
+          "explanation": "Subject of the object clause.",
+          "subcomponents": [
+            {
+              "text": "my",
+              "token_id": "4",
+              "explanation": "Possessive determiner modifying 'teacher'."
+            },
+            {
+              "text": "teacher",
+              "token_id": 5,
+              "explanation": "Head noun of the subject."
+            }
+          ]
+        },
+        {
+          "text": "will",
+          "token_id": "6",
+          "explanation": "Auxiliary verb indicating future tense."
+        },
+        {
+          "text": "take",
+          "token_id": 7,
+          "explanation": "Main verb of the object clause."
+        },
+        {
+          "text": "into account",
+          "token_id": "8 9",
+          "explanation": "Part of the phrasal verb 'take into account'.",
+          "subcomponents": [
+            {
+              "text": "into",
+              "token_id": "8",
+              "explanation": "Part of the phrasal verb."
+            },
+            {
+              "text": "account",
+              "token_id": 9,
+              "explanation": "Part of the phrasal verb."
+            }
+          ]
+        },
+        {
+          "text": "the fact that I was ill just before the exam",
+          "token_id": "10 11 12 13 14 15 16 17 18 19",
+          "explanation": "Object of the phrasal verb 'take into account'.",
+          "subcomponents": [
+            {
+              "text": "that I was ill just before the exam",
+              "token_id": "12 13 14 15 16 17 18 19",
+              "explanation": "Relative clause modifying 'fact'.",
+              "subcomponents": [
+                {
+                  "text": "that",
+                  "token_id": "12",
+                  "explanation": "Relative pronoun introducing the clause."
+                },
+                {
+                  "text": "I",
+                  "token_id": "13",
+                  "explanation": "Subject of the relative clause."
+                },
+                {
+                  "text": "was",
+                  "token_id": "14",
+                  "explanation": "Verb of the relative clause."
+                },
+                {
+                  "text": "ill just before the exam",
+                  "token_id": "15 16 17 18 19",
+                  "explanation": "Adjective phrase describing the subject 'I'.",
+                  "subcomponents": [
+                    {
+                      "text": "ill",
+                      "token_id": 15,
+                      "explanation": "Adjective describing 'I'."
+                    },
+                    {
+                      "text": "just before the exam",
+                      "token_id": "16 17 18 19",
+                      "explanation": "Adverbial phrase modifying 'ill'.",
+                      "subcomponents": [
+                        {
+                          "text": "just",
+                          "token_id": "16",
+                          "explanation": "Adverb modifying 'before'."
+                        },
+                        {
+                          "text": "before the exam",
+                          "token_id": "17 18 19",
+                          "explanation": "Prepositional phrase modifying 'ill'.",
+                          "subcomponents": [
+                            {
+                              "text": "before",
+                              "token_id": "17",
+                              "explanation": "Preposition indicating time."
+                            },
+                            {
+                              "text": "the",
+                              "token_id": "18",
+                              "explanation": "Definite article modifying 'exam'."
+                            },
+                            {
+                              "text": "exam",
+                              "token_id": 19,
+                              "explanation": "Object of the preposition 'before'."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "the fact",
+              "token_id": "10 11",
+              "explanation": "Noun phrase acting as the object.",
+              "subcomponents": [
+                {
+                  "text": "the",
+                  "token_id": "10",
+                  "explanation": "Definite article modifying 'fact'."
+                },
+                {
+                  "text": "fact",
+                  "token_id": 11,
+                  "explanation": "Head noun of the noun phrase."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

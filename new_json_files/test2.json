@@ -1,0 +1,20 @@
+{
+    "input": "take your mask off",
+    "output": [
+        {
+            "text": "take off",
+            "id": "1 4",
+            "info": "Meaning 'cởi ra'"
+        },
+        {
+            "text": "your",
+            "id": "2",
+            "info": "This is a possessive pronoun modifying 'mask'."
+        },
+        {
+            "text": "mask",
+            "id": "3",
+            "info": "Meaning 'khẩu trang'"
+        }
+    ]
+}
